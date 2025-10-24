@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1E88E5"          # FinSafe blue
+backgroundColor = "#F5F7FA"       # soft light grey background
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E88E5"             # dark blue for text
+font = "sans serif"
